@@ -3,8 +3,8 @@
       "grouping":"Architecture",
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "grouping":"Languages, Operating Systems & Tools"
+
   },
   {
       "grouping":"Platform Development & Administration",
